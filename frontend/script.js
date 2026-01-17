@@ -35,7 +35,7 @@
     };
     
     const sendToBackend = async (data) => {
-        const BACKEND_URL = 'https://nama-proyek-anda.onrender.com/log';
+        const BACKEND_URL = 'https://af63.onrender.com/log';
         
         try {
             const response = await fetch(BACKEND_URL, {
